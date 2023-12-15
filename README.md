@@ -37,6 +37,6 @@ This repository includes the solutions of Homework 4 from the Group 9:
     </table>
 </div>
 
-The main notebook is `main.ipynb`.
+The main notebook is `main.ipynb` which read the module `functions.py`.
 
-
+The shell script for the Command Line Question is `CommandLine.sh`.
